@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 祈祷明天对于你来说也是美好的一天！
-
+1.6今天jupyter notebook首次尝试
 <!---
 Ejtzh721/Ejtzh721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
