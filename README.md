@@ -7,7 +7,15 @@
 - ⚡ Fun fact: ...
 - 祈祷明天对于你来说也是美好的一天！
 1.6今天jupyter notebook首次尝试
-<!---
-Ejtzh721/Ejtzh721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1.7
+  true_w = torch.tensor([2,-3.4])
+true_b = 4.2
+features,labels = d2l.synthetic_data(ture_w, ture_b, 1000)
+#
+NameError                                 Traceback (most recent call last)
+Cell In[8], line 3
+      1 true_w = torch.tensor([2,-3.4])
+      2 true_b = 4.2
+----> 3 features,labels = d2l.synthetic_data(ture_w, ture_b, 1000)
+
+NameError: name 'd2l' is not defined
