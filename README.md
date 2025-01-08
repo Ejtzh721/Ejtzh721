@@ -19,3 +19,4 @@ Cell In[8], line 3
 ----> 3 features,labels = d2l.synthetic_data(ture_w, ture_b, 1000)
 
 NameError: name 'd2l' is not defined
+1.8看了第二章知道先建数据集
