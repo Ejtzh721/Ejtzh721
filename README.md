@@ -24,3 +24,9 @@ NameError: name 'd2l' is not defined
 1.14周末结束后家里人又发烧了，明天妹妹1岁生日
 1.15妹妹生日
 1。16看计算机科学基础课
+#include <stido.h>
+int main()
+{    
+    printf("五彩斑斓的世界\n");
+    return 0;
+}
