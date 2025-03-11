@@ -30,3 +30,4 @@ int main()
     printf("五彩斑斓的世界\n");
     return 0;
 }
+五彩斑斓的曙光
