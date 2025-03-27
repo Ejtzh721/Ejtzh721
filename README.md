@@ -34,4 +34,6 @@ int main()
 映入红瞳的世界
 初雪樱
 dc4
+float，浮点型
+int整形
 
