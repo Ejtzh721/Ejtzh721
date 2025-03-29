@@ -37,3 +37,4 @@ dc4
 float，浮点型
 int整形
 dc5
+plus
