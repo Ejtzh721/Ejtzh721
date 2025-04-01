@@ -38,3 +38,4 @@ float，浮点型
 int整形
 dc5
 plus
+作为一个认真的man，我要搞c语言
