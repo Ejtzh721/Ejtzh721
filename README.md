@@ -43,3 +43,5 @@ plus
 摆
 int整数型，float浮点数（小数）
 huashui
+跑步
+
