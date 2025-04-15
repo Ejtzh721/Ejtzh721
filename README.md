@@ -46,4 +46,6 @@ huashui
 跑步
 lai
 物理
+画
+
 
