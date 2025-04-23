@@ -50,3 +50,4 @@ lai
 科目一95
 zhunb1
 无敌
+char
