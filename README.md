@@ -51,3 +51,4 @@ lai
 zhunb1
 无敌
 char
+无气力
