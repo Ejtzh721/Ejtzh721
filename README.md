@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ejtzh721
 - 👀 I’m interested in ..
-- 🌱 I’m currently learnin
+- 🌱 I’m currently learni
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: .
