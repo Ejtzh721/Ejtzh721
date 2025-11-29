@@ -2,7 +2,7 @@
 - 👀 I’m interested in .
 - 🌱 I’m currently learni
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me ..
 - 😄 Pronouns: .
 - ⚡ Fun fact: ...
 - 祈祷明天对于你来说也是美好的一天
