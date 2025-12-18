@@ -45,7 +45,7 @@ int整数型，float浮点数（小数）
 huashui
 跑步
 lai
-物理
+物
 画
 科目一95
 zhunb1
