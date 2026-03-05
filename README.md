@@ -27,7 +27,7 @@ NameError: name 'd2l' is not defined
 #include <stido.h>//stido拼写错，应该是stdio
 int main()
 {    
-    printf("五彩斑斓的世界\n");
+    printf("五彩斑斓的世界\n")
     return 0;
 }
 五彩斑斓的曙光
