@@ -6,7 +6,7 @@
 - 😄 Pronouns:
 - ⚡ Fun fact:
 - 祈祷明天对于你来说也是美好的一天
-1.6今天jupyter notebook首次
+1.6今天jupyter notebook首
 1.7
   true_w = torch.tensor([2,-3.4])
 true_b = 4.2
