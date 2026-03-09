@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborat 
 - 📫 How to reach me
 - 😄 Pronouns:
-- ⚡ Fun fact:
+- ⚡ Fun fact
 - 祈祷明天对于你来说也是美好的一天
 1.6今天jupyter notebook首
 1.7
