@@ -34,7 +34,7 @@ int main()
 映入红瞳的
 初雪樱
 dc4
-float，浮点型
+float，浮点
 int整形
 dc5
 plus
