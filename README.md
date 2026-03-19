@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborat 
 - 📫 How to reach me
 - 😄 Pronouns:
-- ⚡ Fun fact
+- ⚡ Fun fac
  祈祷明天对于你来说也是美好的
 1.6今天jupyter notebo
 1.
