@@ -7,8 +7,7 @@
 - ⚡ Fun fac
  祈祷明天对于你来说也是美好的
 1.6今天jupyter noteb
-1.
-  true_w = torch.tensor([2,-3.4]
+1.   true_w = torch.tensor([2,-3.4]
 true_b = 4.2
 features,labels = d2l.synthetic_data(ture_w, ture_b, 1000)
 #
