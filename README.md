@@ -3,7 +3,7 @@
 - 🌱 I’m currently lear
 - 💞️ I’m looking to collaborat 
 - 📫 How to reach me
-- 😄 Pronouns:
+- 😄 Pronouns
 - ⚡ Fun fac
  祈祷明天对于你来说也是美好的
 1.6今天jupyter noteb
