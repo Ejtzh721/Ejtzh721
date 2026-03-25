@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - 😄 Pronouns
 - ⚡ Fun fa
- 祈祷明天对于你来说也是美好的
+ 祈祷明天对于你来说也是美好
 1.6今天jupyter noteb
 1.   true_w = torch.tensor([2,-3.4]
 true_b = 4.
