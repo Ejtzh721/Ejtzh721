@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ejtzh721
 - 👀 I’m interested in 
 - 🌱 I’m currently lear
-- 💞️ I’m looking to collabora
+- 💞️ I’m looking to collabor
 - 📫 How to reach me
 - 😄 Pronouns
 - ⚡ Fun fa
