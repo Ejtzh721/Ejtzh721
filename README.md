@@ -8,7 +8,7 @@
  祈祷明天对于你来
 1.6今天jupyter
 1.   true_w = torch.tensor([2,
-true_b = 4.
+true_b = 4
 features,labels = d2l.synthetic_data(ture_w, ture_b, 
 NameError                                 Traceback (most recent call las
 Cell In[8], line 3
