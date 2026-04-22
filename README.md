@@ -10,7 +10,7 @@
 1.   true_w = torch.tensor([2
 true_b = 
 features,labels = d2l.synthetic_data(ture_w, ture_b, 
-NameError                                 Traceback (most recent call las
+NameError                                 Traceback (most recent call la
 Cell In[8], line 3
       1 true_w = torch.tensor([2,-3.4]
       2 true_b = 4.2
