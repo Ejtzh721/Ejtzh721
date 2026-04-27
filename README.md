@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ejtzh721
 - 👀 I’m interested in 
-- 🌱 I’m currently lear
+- 🌱 I’m currently lea
 - 💞️ I’m looking to collabor
 - 📫 How to reach me
 - 😄 Pronoun
