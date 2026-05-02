@@ -6,7 +6,7 @@
 - 😄 Pronoun
 - ⚡ Fun f
  祈祷明天对于你来
-1.6今天jupyter
+1.6今天jupyte
 1.   true_w = torch.tensor([
 true_b 
 features,labels = d2l.synthetic_data(ture_w, ture_b, 
