@@ -12,7 +12,7 @@ true_b
 features,labels = d2l.synthetic_data(ture_w, ture_b, 
 NameError                                 Traceback (most recent call l
 Cell In[8], line 
-      1 true_w = torch.tensor([2,-3.4
+      1 true_w = torch.tensor([2,-3
       2 true_b = 4.
 ----> 3 features,labels = d2l.synthetic_data(ture_w, ture_b, 1000
 
