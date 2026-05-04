@@ -9,7 +9,7 @@
 1.6今天jupyte
 1.   true_w = torch.tensor([
 true_b 
-features,labels = d2l.synthetic_data(ture_w, ture_b, 
+features,labels = d2l.synthetic_data(ture_w, ture_b,
 NameError                                 Traceback (most recent call l
 Cell In[8], line 
       1 true_w = torch.tensor([2,-3
