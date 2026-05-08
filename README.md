@@ -3,7 +3,7 @@
 - 🌱 I’m currently lea
 - 💞️ I’m looking to collabo
 - 📫 How to reach me
-- 😄 Pronoun
+- 😄 Pronou
 - ⚡ Fun f
  祈祷明天对于你来
 1.6今天jupyte
