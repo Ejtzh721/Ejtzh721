@@ -8,4 +8,4 @@
 200 1
 450 1
 222 2
-230
+https://mc.kurogames.com/m/
